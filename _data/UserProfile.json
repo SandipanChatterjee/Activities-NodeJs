@@ -1,0 +1,30 @@
+[
+  {
+    "name": "test 1",
+    "age": "20",
+    "phone": "1234567890",
+    "address": "India",
+    "jobs": [
+      {
+        "name": "CTS"
+      },
+      {
+        "name": "Infy"
+      }
+    ]
+  },
+  {
+    "name": "test 2",
+    "age": "25",
+    "phone": "1234537890",
+    "address": "Australia",
+    "jobs": [
+      {
+        "name": "Walmart"
+      },
+      {
+        "name": "SAP"
+      }
+    ]
+  }
+]
